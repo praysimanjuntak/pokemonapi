@@ -4,7 +4,7 @@ import CardList from '../components/CardList';
 import Searchbar from '../components/Searchbar';
 import './App.css';
 
-const pokemonNumber = 151;
+const pokemonNumber = 729;
 
 class App extends React.Component {
     constructor() {
