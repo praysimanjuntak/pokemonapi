@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+h1 {
+    font-family: 'PT Sans';
+    font-weight: 700;
+    color: red;
+}
