@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokemonapi/static/css/main.1b1ba935.css",
-    "main.js": "/pokemonapi/static/js/main.05f748ca.js",
-    "static/js/787.fb265414.chunk.js": "/pokemonapi/static/js/787.fb265414.chunk.js",
-    "index.html": "/pokemonapi/index.html",
-    "main.1b1ba935.css.map": "/pokemonapi/static/css/main.1b1ba935.css.map",
-    "main.05f748ca.js.map": "/pokemonapi/static/js/main.05f748ca.js.map",
-    "787.fb265414.chunk.js.map": "/pokemonapi/static/js/787.fb265414.chunk.js.map"
+    "main.css": "/praysimanjuntak/pokemonapi/static/css/main.1b1ba935.css",
+    "main.js": "/praysimanjuntak/pokemonapi/static/js/main.967e2b3f.js",
+    "static/js/787.a45ecaa1.chunk.js": "/praysimanjuntak/pokemonapi/static/js/787.a45ecaa1.chunk.js",
+    "index.html": "/praysimanjuntak/pokemonapi/index.html",
+    "main.1b1ba935.css.map": "/praysimanjuntak/pokemonapi/static/css/main.1b1ba935.css.map",
+    "main.967e2b3f.js.map": "/praysimanjuntak/pokemonapi/static/js/main.967e2b3f.js.map",
+    "787.a45ecaa1.chunk.js.map": "/praysimanjuntak/pokemonapi/static/js/787.a45ecaa1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b1ba935.css",
-    "static/js/main.05f748ca.js"
+    "static/js/main.967e2b3f.js"
   ]
 }
